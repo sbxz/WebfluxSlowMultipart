@@ -1,0 +1,5 @@
+spring:
+  webflux:
+    multipart:
+      max-in-memory-size: 0B
+      max-parts: 2
